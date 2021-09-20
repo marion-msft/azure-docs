@@ -17,7 +17,7 @@ When you connect to a VM using Azure Bastion, you do not need a public IP addres
 
    :::image type="content" source="./media/bastion-remove-ip/disassociate.png" alt-text="Screenshot of public IP address for the VM.":::
 
-1. Select **Yes** to disassociated the IP address from the network interface.
+1. Select **Yes** to disassociate the IP address from the network interface.
 
    :::image type="content" source="./media/bastion-remove-ip/disassociate-yes.png" alt-text="Screenshot of Disassociate public IP address.":::
 
